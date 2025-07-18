@@ -1,4 +1,4 @@
-# 🎮 JocastaProtocol - Marvel Rivals Game Assistant
+# 🎮 Jocasta Protocol - Marvel Rivals Game Assistant
 
 Hey everyone,
 
